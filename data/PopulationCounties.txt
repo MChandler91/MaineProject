@@ -1,0 +1,16 @@
+160;675;Cumberland County: 285,456
+125;725;York County: 199,431
+380;430;Penobscot County: 153,364
+230;580;Kennebec County: 121,164
+185;600;Androscoggin County: 107,604
+375;175;Aroostook County: 70,055
+128;568;Oxford County: 57,277
+410;490;Hancock County: 54,845
+205;410;Somerset County: 51,706
+295;585;Knox County: 39,550
+310;560;Waldo County: 38,940
+218;615;Sagadahoc County: 35,013
+265;595;Lincoln County: 34,088
+490;450;Washington County: 32,190
+165;500;Franklin County: 30,495
+295;300;Piscataquis County: 17,124

@@ -1,0 +1,20 @@
+460,275,Houlton: 34.66Mbps
+212,635,Topsham: 34.13Mbps
+210,645,Brunswick: 30.66Mbps
+190,645,Freeport: 27.68Mbps
+110,710,Sanford: 25.56Mbps
+225,630,Bath: 25.04Mbps
+175,690,South Portland: 24.63Mbps
+140,685,Buxton: 24.29Mbps
+130,760,York: 23.48Mbps
+180,665,Falmouth: 23.04Mbps
+315,590,Rockport: 22.88Mbps
+160,705,Old Orchard Beach: 21.55Mbps
+150,650,Windham: 21.29Mbps
+150,710,Saco: 20.91Mbps
+260,480,Pittsfield: 20.29Mbps
+140,730,Kennebunkport: 20.23Mbps
+135,585,Norway: 20.15Mbps
+240,580,Belgrade: 19.88Mbps
+148,712,Biddeford: 19.76Mbps
+140,585,South Paris: 19.73Mbps
